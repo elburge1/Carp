@@ -2,6 +2,8 @@
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.7.6.
 
+This app is being built to allow people to have an easier time finding coworkers or people who work nearby to help them get to and from their jobs and save a little gas/open up extra parking for people.
+
 ## Getting Started
 
 ### Prerequisites
