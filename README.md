@@ -1,12 +1,10 @@
 # carpool-app
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.7.6.
-
 This app is being built to allow people to have an easier time finding coworkers or people who work nearby to help them get to and from their jobs and save a little gas/open up extra parking for people.
 
 The general idea is that users will be divided into riders, and drivers. You can register as both when you make an account but only have to register for one or the other. Riders will put in their home/work addresses and the radius from each that they're willing to search for rides within. Drivers will pick a time, and location for when they're leaving and where they're leaving from/where they're headed. The rider will then pick a carpool to join and meet the driver at the designated location.
 
-Drivers will never have access to the address of the rider's home or work, and riders and drivers will be able to rate each other, favorite each other or block each other as necessary. 
+Drivers will never have access to the address of the rider's home or work, and riders and drivers will be able to rate each other, favorite each other or block each other as necessary.
 
 ## Getting Started
 
